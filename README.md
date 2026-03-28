@@ -1,54 +1,67 @@
 # ¡Hola! Soy Matias Salischiker 👋
 
 ### 🚀 Lead Developer & Systems Analyst
-Especializado en el diseño y despliegue de arquitecturas full-stack escalables y la modernización de sistemas críticos para empresas medianas y grandes.
+[cite_start]**Especialista en arquitecturas Full-Stack, ERPs y Transformación Digital.** Con más de 5 años de experiencia liderando el ciclo de vida completo de desarrollo (End-to-End), desde el relevamiento con clientes medianos y grandes hasta el despliegue en entornos productivos[cite: 1, 4, 18, 21].
 
 ---
 
-## 🛠️ Stack Tecnológico Profesional
+## 🛠️ Stack Tecnológico & Skills
 
-| Backend & Core | Frontend & Mobile | Infra & Tools |
-| :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Jmix](https://img.shields.io/badge/Jmix-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+### **Backend & Core Architecture**
+* [cite_start]**Lenguajes:** Java (Expert), Node.js, Spring Boot[cite: 19].
+* [cite_start]**Frameworks & Libs:** Jmix, Express, Spring Security, REST APIs[cite: 8].
+* [cite_start]**Data Management:** PostgreSQL, SQL, Migración de sistemas Legacy[cite: 9, 19].
+* [cite_start]**Automatización:** Diseño de flujos de trabajo y carga de datos para optimización operativa[cite: 7, 20].
 
----
+### **Frontend & Mobile**
+* [cite_start]**Web:** Vue.js, React, Thymeleaf, HTML5/CSS3[cite: 19].
+* [cite_start]**Mobile:** Flutter para aplicaciones multiplataforma[cite: 19].
 
-## 📈 Experiencia Destacada
-
-### 🏢 [Megadata Sistemas](https://github.com/Matt-salis) | Lead Developer (2021 - Actualidad)
-Lidero el desarrollo integral de sistemas **ERP y logísticos** de alto impacto.
-* **Modernización:** Migración de sistemas legacy a arquitecturas modernas, mejorando performance y escalabilidad.
-* **Automatización:** Implementación de flujos de trabajo que reducen tiempos operativos y eliminan errores humanos.
-* **Gestión End-to-End:** Coordinación total desde el relevamiento con clientes hasta el despliegue en producción y capacitación.
-
-### 🎓 [MindHub LA](https://github.com/Matt-salis) | FullStack Mentor
-Formé a más de 50 alumnos en desarrollo de software, enfocándome en buenas prácticas de programación y metodologías ágiles.
+### **DevOps & Infrastructure**
+* [cite_start]**Contenedores:** Docker (Docker Compose, administración de VPS)[cite: 11, 19].
+* [cite_start]**Cloud:** AWS (Amazon Web Services), entornos cloud estables y escalables[cite: 11, 19, 28].
+* [cite_start]**Herramientas:** Git, Metodologías Ágiles, CI/CD, IA para optimización de código[cite: 16, 22].
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 💼 Experiencia e Impacto
+
+* [cite_start]**Líder de Desarrollo en Megadata Sistemas (2021 - Actualidad):** [cite: 4]
+    * [cite_start]Diseñé arquitecturas escalables para sistemas ERP y logísticos[cite: 5, 6].
+    * [cite_start]Reduje errores manuales mediante integraciones entre múltiples sistemas vía APIs[cite: 8, 20].
+    * [cite_start]Introduje herramientas de IA para acelerar la calidad y entrega de software[cite: 12].
+* [cite_start]**Mentor Full-Stack en MindHub LA:** [cite: 13]
+    * [cite_start]Formación y mentoring de +50 alumnos en buenas prácticas y debugging[cite: 14, 15].
+
+---
+
+## 📊 Mi Actividad en GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Matt-salis&show_icons=true&theme=tokyonight&hide_border=true" alt="Matias's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-salis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matt-salis&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Matias Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-salis&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 🎓 Educación y Certificaciones
+* [cite_start]**Analista de Sistemas** - ORT Argentina[cite: 28].
+* [cite_start]**AWS Cloud** - Coderhouse[cite: 28].
+* [cite_start]**Full Stack Bootcamp** - MindHub LA[cite: 28].
+* [cite_start]**Diseño de Circuitos Electrónicos** - UTN[cite: 29].
 
 ---
 
 ## 🌐 Idiomas
-* **Español:** Nativo
-* **Inglés:** Avanzado
-* **Alemán:** Básico
+* [cite_start]**Inglés:** Avanzado (C1/C2)[cite: 25].
+* [cite_start]**Español:** Nativo[cite: 24].
+* [cite_start]**Alemán:** Básico (A1/A2)[cite: 26].
 
 ---
 
 ## 📫 Conectemos
-* **LinkedIn:** [/in/matias-salischiker](https://www.linkedin.com/in/matias-salischiker)
-* **Email:** [m.salischiker@hotmail.com](mailto:m.salischiker@hotmail.com)
-
----
-<p align="center">
-  <i>"Liderando la transformación digital mediante arquitecturas robustas y el uso estratégico de IA."</i>
-</p>
+* [cite_start]**LinkedIn:** [linkedin.com/in/matias-salischiker](https://www.linkedin.com/in/matias-salischiker) 
+* [cite_start]**Email:** [m.salischiker@hotmail.com](mailto:m.salischiker@hotmail.com) 
