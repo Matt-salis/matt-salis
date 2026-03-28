@@ -1,63 +1,78 @@
-# ¡Hola! Soy Matias Salischiker 👋
+<h1 align="center">¡Hola! Soy Matias Salischiker 👋</h1>
+<h3 align="center">Lead Developer & Systems Analyst</h3>
 
-### 🚀 Lead Developer & Systems Analyst
-**Especialista en arquitecturas Full-Stack, ERPs y Transformación Digital.** Con más de 5 años de experiencia liderando el ciclo de vida completo de desarrollo (End-to-End) en **Megadata Sistemas**, desde el relevamiento con clientes corporativos hasta el despliegue en entornos productivos.
-
----
-
-## 🛠️ Stack Tecnológico & Professional Skills
-
-### **Backend & Core Architecture**
-* **Lenguajes:** Java (Expert), Node.js, Spring Boot.
-* **Frameworks & Libs:** Jmix, Express, Spring Security, REST APIs.
-* **Data Management:** PostgreSQL, SQL, Migración y modernización de sistemas Legacy.
-* **Automatización:** Diseño de flujos de trabajo y carga de datos para optimización operativa.
-
-### **Frontend & Mobile**
-* **Web:** Vue.js, React, Thymeleaf, HTML5/CSS3.
-* **Mobile:** Flutter para aplicaciones multiplataforma.
-
-### **DevOps & Infrastructure**
-* **Contenedores:** Docker (Docker Compose, administración de VPS).
-* **Cloud:** AWS (Amazon Web Services), gestión de entornos cloud escalables.
-* **Herramientas:** Git, Metodologías Ágiles, CI/CD, Integración de IA para productividad de software.
-
----
-
-## 💼 Experiencia e Impacto en Megadata Sistemas
-
-* **Arquitectura de Sistemas:** Diseño y despliegue de soluciones ERP y logísticas para empresas medianas y grandes.
-* **Optimización de Procesos:** Reducción de tiempos operativos mediante la automatización de carga de datos e integraciones vía APIs.
-* **Liderazgo Técnico:** Coordinación total de proyectos, incluyendo testing, despliegue y capacitación de usuarios finales.
-* **Modernización:** Transformación de infraestructuras antiguas hacia arquitecturas modernas basadas en microservicios y contenedores.
-
----
-
-## 📊 GitHub Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matt-salis&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Matias Stats" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matt-salis&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-salis&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+- 🚀 Especialista en **arquitecturas Full-Stack, ERPs y Transformación Digital**.
+- 🧩 +5 años liderando el ciclo de vida completo (End-to-End) en **Megadata Sistemas**.
+- 🌱 Actualmente trabajando con **Java / Spring Boot**, **Node.js**, y **AWS**.
+- 👨‍💻 Mis proyectos están en [GitHub](https://github.com/Matt-salis?tab=repositories)
+- 📫 Contacto: **m.salischiker@hotmail.com**
+
+---
+
+### 🛠️ &nbsp;Languages and Tools
+
+![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Matt-salis">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Matt-salis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Matias GitHub stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matt-salis&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matt-salis" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💼 Experiencia e Impacto
+
+- **Arquitectura de Sistemas:** diseño y despliegue de soluciones ERP y logísticas.
+- **Optimización de Procesos:** automatización de cargas e integraciones vía APIs.
+- **Liderazgo Técnico:** coordinación de proyectos (testing, deploy, capacitación).
+- **Modernización:** migración de legacy hacia arquitecturas modernas con contenedores.
 
 ---
 
 ## 🎓 Educación e Idiomas
-* **Analista de Sistemas** - ORT Argentina.
-* **Cloud AWS** - Coderhouse.
-* **Full Stack Bootcamp** - MindHub LA.
-* **Diseño de Circuitos (Altium)** - UTN.
+
+- **Analista de Sistemas** — ORT Argentina
+- **Cloud AWS** — Coderhouse
+- **Full Stack Bootcamp** — MindHub LA
+- **Diseño de Circuitos (Altium)** — UTN
 
 **Idiomas:**
-* **Inglés:** Avanzado (C1/C2).
-* **Español:** Nativo.
-* **Alemán:** Básico.
+- Español: Nativo
+- Inglés: Avanzado (C1/C2)
+- Alemán: Básico
 
 ---
 
-## 📫 Conectemos
-* **LinkedIn:** [linkedin.com/in/matias-salischiker](https://www.linkedin.com/in/matias-salischiker)
-* **Email:** [m.salischiker@hotmail.com](mailto:m.salischiker@hotmail.com)
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/matias-salischiker">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:m.salischiker@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+</p>
